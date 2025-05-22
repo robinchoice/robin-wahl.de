@@ -1,8 +1,8 @@
 ---
-title: Robin Wahl – CV
+title: Robin Wahl
 layout: page
 ---
-# Robin Wahl
+
 
 ![[IMG_2528 2.jpg]]
 **Business Intelligence, Strategy & Technology Consultant**  
