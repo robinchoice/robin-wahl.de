@@ -1,5 +1,5 @@
 ---
-title: Robin Wahl
+title: Home
 layout: page
 ---
 
