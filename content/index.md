@@ -5,7 +5,7 @@ layout: page
 
 
 ![[images/robin_fire.jpg]]
-**Business Intelligence, Strategy & Technology Consultant**  
+# Business Intelligence, Strategy & Technology Consultant
 Based in Freiburg | info@robin-wahl.de | [LinkedIn](https://www.linkedin.com/in/robinwahl359)
 
 ## About Me
