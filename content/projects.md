@@ -2,8 +2,6 @@
 title: Projects
 layout: page
 ---
-# Projects
-
 ## Bitcoin Mining KPI SOPs  
 Developed a KPI framework for Bitcoin mining performance and sustainability tracking within a DAO context.
 ## “Pleasance” – Personal Website  

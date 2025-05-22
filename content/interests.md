@@ -1,8 +1,8 @@
 ---
-title: Interests
+title: Current Interests
 layout: page
 ---
-# Current Interests
+
 
 - **Bitcoin and Austrian Economics**  
   Exploring the philosophical, technical, and historical dimensions of Bitcoin.

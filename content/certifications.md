@@ -2,7 +2,6 @@
 title: Certifications
 layout: page
 ---
-# Certifications
 
 - **Professional Scrum Master™ I (PSM I)**  scrum.org
 - **SAP Certified Application Associate – SAP Analytics Cloud**  sap.com

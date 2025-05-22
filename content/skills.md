@@ -2,8 +2,6 @@
 title: Skills
 layout: page
 ---
-# Skills
-
 ## Core Competencies
 - Business Intelligence & Analytics
 - Strategic Data Interpretation

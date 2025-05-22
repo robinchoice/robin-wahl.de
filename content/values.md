@@ -1,8 +1,7 @@
 ---
-title: Values
+title: Core Values
 layout: page
 ---
-# Core Values
 
 - **Sovereignty**  
   I believe in individual freedom – economically, digitally, and spiritually.

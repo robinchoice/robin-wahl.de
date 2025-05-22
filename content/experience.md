@@ -2,8 +2,6 @@
 title: Work Experience
 layout: page
 ---
-# Work Experience
-
 ## Business Intelligence, Strategy & Technology Consultant  
 **Self-employed** · *Apr 2020 – Present* · Remote / Europe  
 - Focus on Open Source Intelligence, Bitcoin Custody Solutions, and Renewable Energy Optimization.  

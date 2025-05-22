@@ -2,8 +2,6 @@
 title: Education
 layout: page
 ---
-# Education
-
 ## Master of Science – Business Informatics  
 **Universität des Saarlandes** · *2019 – 2021*  
 - Focus on Data Analytics, Information Systems, and Digital Business.
