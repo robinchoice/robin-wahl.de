@@ -119,6 +119,15 @@ h2 { font-size: 1.625rem; font-weight: 800; line-height: 1.2; letter-spacing: -.
 .foot ul { display: flex; gap: 1.5rem; }
 .foot a { color: var(--ink); }
 
+/* Datenschutz */
+.legal-head { padding-block: 1.75rem; font-weight: 800; }
+.legal-head a { color: var(--ink); text-decoration: none; }
+.legal { padding-block: clamp(1.5rem, 4vw, 3rem) clamp(3rem, 7vw, 5rem); }
+.legal > * { max-width: 42rem; }
+.legal h1 { font-size: clamp(2.5rem, 6vw, 4rem); font-weight: 800; line-height: 1; letter-spacing: -.035em; }
+.legal h2 { margin-top: 2.25rem; font-size: 1.25rem; }
+.legal p { margin-top: .6rem; }
+
 @media screen and (max-width: 760px) {
   .chart { --cols: minmax(0, 1fr); }
   .pad { display: none; }
