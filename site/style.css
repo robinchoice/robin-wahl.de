@@ -182,12 +182,13 @@ h2 { font-family: var(--display); font-size: 1.875rem; font-weight: 750; font-st
   .chart { --cols: 30mm 58mm 1fr; }
   .st > summary { break-inside: avoid; break-after: avoid; }
   .st__body li { break-inside: avoid; }
-  .cv, .more { padding-bottom: 6mm; }
+  .cv, .more { padding-bottom: 4mm; }
   .more { gap: 6mm; break-inside: avoid; }
-  .contact { padding-block: 6mm 0; }
+  .contact { padding-block: 4mm 0; }
   .contact p { display: none; }
-  .foot { padding-block: 3mm 0; }
+  .foot { padding-block: 2mm 0; border-top: 0; }
   .contact__mail { font-size: 16pt; }
+  .contact__links { margin-top: 2mm; }
   .contact__links a::after { content: " " attr(href); font-weight: 400; }
   .contact__links li:last-child { display: none; }
   .row:has(> .group) { break-after: avoid; }
